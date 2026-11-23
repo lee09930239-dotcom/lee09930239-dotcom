@@ -1,16 +1,26 @@
-## Hi there 👋
+こんにちは、Joshです 👋
 
-<!--
-**lee09930239-dotcom/lee09930239-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+福岡のエンジニアリング会社で 営業 を担当しています。
+現在は、日々の業務をもっとラクに・速くするための 業務効率化ツールの開発 に取り組んでいます。
 
-Here are some ideas to get you started:
+「現場で本当に使えるもの」を、小さく作って、使いながら改善していくスタイルです。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 作っているもの
+
+ツール	概要
+📝 会議字幕・議事録ツール	会議音声をリアルタイムで文字起こしし、要約・議事録・中国語版まで自動で整理
+💬 LINE 業務アシスタント Bot	作業進捗の記録・受信トレイ管理・会社情報の検索を LINE から操作
+📇 名刺管理 Bot	名刺写真から情報を読み取り、連絡先として自動登録
+📧 メール整理ツール	Outlook のメールを同期し、署名から連絡先を自動更新
+📱 スマホ遠隔操作	スマホから PC を操作できる軽量リモートツール
+📻 法說電台	決算説明会（IR）をラジオ感覚で聴ける Web ページ
+
+💻 使用技術
+
+🌏 言語
+
+日本語 ・ 中文 ・ English
+
+📫 連絡
+
+お仕事のご相談・ツールへのご意見など、お気軽にどうぞ。
